@@ -5,7 +5,7 @@
   desc "TAKESHOBO!? Shouldn't it be destroyed..."
   homepage "https://github.com/el-hoshino/popteamepic"
   url "https://github.com/el-hoshino/popteamepic/archive/0.1.tar.gz"
-  sha256 "3b6ad3d37e8ec283d3e9f86a0cc0e2db1377c9bb558c059e7cff03457c83dfcd"
+  sha256 "d664c018cf02e6c8214e5fa0f498e6d933bd80985d3dd1a514961ae56954799c"
    def install
     system "swiftc popteamepic.swift"
     bin.install "popteamepic"
